@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 .streamlit/secrets.toml
+=======
+.streamlit/secrets.toml
+>>>>>>> c30060dd815fc26687f9419cd3cded4738bd6b58
 **/__pycache__/
