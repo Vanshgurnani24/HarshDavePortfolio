@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 streamlit
 pandas
 Requests
 st-gsheets-connection
-=======
-streamlit
-pandas
-Requests
-st-gsheets-connection
->>>>>>> c30060dd815fc26687f9419cd3cded4738bd6b58
 streamlit_lottie
