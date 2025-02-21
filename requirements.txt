@@ -1,0 +1,5 @@
+streamlit
+pandas
+Requests
+st-gsheets-connection
+streamlit_lottie
