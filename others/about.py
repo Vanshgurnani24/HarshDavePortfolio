@@ -62,7 +62,7 @@ class MainPanel:
       st.write("- :blue[B.E in Computer Engineering, C.K. Pithawala(Ongoing)]")
     
   def ExtraCurricular(self):
-    st.header(":grey[EXTRA-CURRICULAR ACTIVITIES]",anchor=False,divider='grey')
+    st.header(":grey[Extra-Curricular Activities]",anchor=False,divider='grey')
     with st.container(border=True):
       st.subheader(":orange[Sports Secretary, C.K. Pithawala College]",anchor=False,divider='orange')
       c1,c2=st.columns(2,gap='medium',vertical_alignment ='center')
@@ -75,7 +75,7 @@ class MainPanel:
 
 
   def skills(self):
-    st.header(":grey[SKILLS]",anchor=False,divider='grey')
+    st.header(":grey[Skills]",anchor=False,divider='grey')
     with st.container(border=True):
       st.subheader(":orange[Technical Skills]",anchor=False,divider='orange')
       c1,c2=st.columns(2,gap='medium',vertical_alignment='center')
@@ -99,7 +99,7 @@ class MainPanel:
 
 
   def languages(self):
-    st.header(":grey[languages]",anchor=False,divider='grey')
+    st.header(":grey[Languages]",anchor=False,divider='grey')
     with st.container(border=True):
       c1,c2=st.columns(2,gap='medium',vertical_alignment='center')
       with c2:
